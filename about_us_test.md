@@ -14,9 +14,15 @@ Our philosophy is as follows:
 * The fifth philosophy.
 
 ## Employees
-My name is Name. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah.
+![A picture of an employee.](http://lorempixel.com/image_output/people-q-c-200-200-9.jpg)
 
 My name is Name. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah.
+
+![A picture of an employee.](http://lorempixel.com/image_output/people-q-c-200-200-4.jpg)
+
+My name is Name. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah.
+
+![A picture of an employee.](http://lorempixel.com/image_output/people-q-c-200-200-1.jpg)
 
 My name is Name. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah.
 

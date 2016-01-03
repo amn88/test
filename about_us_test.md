@@ -18,13 +18,19 @@ Our philosophy is as follows:
 
 My name is Name. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah.
 
+[Follow me on Instagram!](http://instagram.com)
+
 ![A picture of an employee.](http://lorempixel.com/image_output/people-q-c-200-200-4.jpg)
 
 My name is Name. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah.
 
+[Follow me on Instagram!](http://instagram.com)
+
 ![A picture of an employee.](http://lorempixel.com/image_output/people-q-c-200-200-1.jpg)
 
 My name is Name. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah. I enjoy blah, blah, blah.
+
+[Follow me on Instagram!](http://instagram.com)
 
 ## Location
 We are located at **20345 175th NW St in Downtown Miami, FL**. For further directions to reach our location, call (555) 555-555 for assistance.
